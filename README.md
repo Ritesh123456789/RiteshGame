@@ -1,5 +1,6 @@
 # RiteshGame
 
+git clone git@github.com:Ritesh123456789/RiteshGame.git
 
 Java Version: 18
 
