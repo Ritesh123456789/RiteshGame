@@ -1,6 +1,5 @@
+package ritesh.game1;
 import java.util.List;
-
-
 
 import javafx.scene.image.Image;
 

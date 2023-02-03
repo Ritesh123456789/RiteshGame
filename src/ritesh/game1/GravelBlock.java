@@ -1,3 +1,4 @@
+package ritesh.game1;
 import javafx.scene.image.Image;
 
 public class GravelBlock extends Actor{

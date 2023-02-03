@@ -1,3 +1,4 @@
+package ritesh.game1;
 
 import javafx.scene.Node;
 
